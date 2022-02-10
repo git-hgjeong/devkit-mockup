@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/devkit-mockup/static/js/main.c48b682f.js",
+    "index.html": "/devkit-mockup/index.html",
+    "main.c48b682f.js.map": "/devkit-mockup/static/js/main.c48b682f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c48b682f.js"
+  ]
+}
