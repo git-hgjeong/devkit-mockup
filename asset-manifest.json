@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/devkit-mockup/static/css/main.cbd85d14.css",
-    "main.js": "/devkit-mockup/static/js/main.7c8a7063.js",
+    "main.js": "/devkit-mockup/static/js/main.c25dc037.js",
     "index.html": "/devkit-mockup/index.html",
     "main.cbd85d14.css.map": "/devkit-mockup/static/css/main.cbd85d14.css.map",
-    "main.7c8a7063.js.map": "/devkit-mockup/static/js/main.7c8a7063.js.map"
+    "main.c25dc037.js.map": "/devkit-mockup/static/js/main.c25dc037.js.map"
   },
   "entrypoints": [
     "static/css/main.cbd85d14.css",
-    "static/js/main.7c8a7063.js"
+    "static/js/main.c25dc037.js"
   ]
 }
