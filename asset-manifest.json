@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/devkit-mockup/static/css/main.cbd85d14.css",
-    "main.js": "/devkit-mockup/static/js/main.c25dc037.js",
+    "main.css": "/devkit-mockup/static/css/main.6addda01.css",
+    "main.js": "/devkit-mockup/static/js/main.a0d36f42.js",
     "index.html": "/devkit-mockup/index.html",
-    "main.cbd85d14.css.map": "/devkit-mockup/static/css/main.cbd85d14.css.map",
-    "main.c25dc037.js.map": "/devkit-mockup/static/js/main.c25dc037.js.map"
+    "main.6addda01.css.map": "/devkit-mockup/static/css/main.6addda01.css.map",
+    "main.a0d36f42.js.map": "/devkit-mockup/static/js/main.a0d36f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbd85d14.css",
-    "static/js/main.c25dc037.js"
+    "static/css/main.6addda01.css",
+    "static/js/main.a0d36f42.js"
   ]
 }
