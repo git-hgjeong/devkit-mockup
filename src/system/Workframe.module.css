@@ -67,6 +67,18 @@ aside.lnb {
     font-size: 18px;
 }
 
+.lnb_tree {
+    position: relative;
+    left: 0;
+    top: 40px;
+    width: 200px;
+    height: 708px;
+    background-color: #313946;
+    z-index: 1;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 .container > div > .btn_lnb {
     cursor: pointer;
     width: 35px;
